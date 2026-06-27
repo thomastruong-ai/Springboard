@@ -3,10 +3,10 @@
 Personal repository for projects, case studies, and exercises completed during the Springboard Data Science Bootcamp.
 ## 📁 Repository Structure
 
-├── mini-projects/       # Guided mini projects
+├── Mini-projects/       # Guided mini projects
 
-├── case-studies/        # Business case studies 
+├── Case-studies/        # Business case studies 
 
-├── capstone/            # Capstone projects
+├── Capstone/            # Capstone projects
 
-└── notebooks/           # Exploratory notebooks and exercises
+└── Notebooks/           # Exploratory notebooks and exercises
